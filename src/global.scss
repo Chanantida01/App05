@@ -35,3 +35,57 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+
+:root {
+	--ion-color-f05a7e: #F05A7E;
+	--ion-color-f05a7e-rgb: 240,90,126;
+	--ion-color-f05a7e-contrast: #000000;
+	--ion-color-f05a7e-contrast-rgb: 0,0,0;
+	--ion-color-f05a7e-shade: #d34f6f;
+	--ion-color-f05a7e-tint: #f26b8b;
+}
+
+.ion-color-f05a7e {
+	--ion-color-base: var(--ion-color-f05a7e);
+	--ion-color-base-rgb: var(--ion-color-f05a7e-rgb);
+	--ion-color-contrast: var(--ion-color-f05a7e-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-f05a7e-contrast-rgb);
+	--ion-color-shade: var(--ion-color-f05a7e-shade);
+	--ion-color-tint: var(--ion-color-f05a7e-tint);
+}
+
+:root {
+	--ion-color-125b9a: #125B9A;
+	--ion-color-125b9a-rgb: 18,91,154;
+	--ion-color-125b9a-contrast: #ffffff;
+	--ion-color-125b9a-contrast-rgb: 255,255,255;
+	--ion-color-125b9a-shade: #105088;
+	--ion-color-125b9a-tint: #2a6ba4;
+}
+
+.ion-color-125b9a {
+	--ion-color-base: var(--ion-color-125b9a);
+	--ion-color-base-rgb: var(--ion-color-125b9a-rgb);
+	--ion-color-contrast: var(--ion-color-125b9a-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-125b9a-contrast-rgb);
+	--ion-color-shade: var(--ion-color-125b9a-shade);
+	--ion-color-tint: var(--ion-color-125b9a-tint);
+}
+
+:root {
+	--ion-color-0b8494: #0B8494;
+	--ion-color-0b8494-rgb: 11,132,148;
+	--ion-color-0b8494-contrast: #000000;
+	--ion-color-0b8494-contrast-rgb: 0,0,0;
+	--ion-color-0b8494-shade: #0a7482;
+	--ion-color-0b8494-tint: #23909f;
+}
+
+.ion-color-0b8494 {
+	--ion-color-base: var(--ion-color-0b8494);
+	--ion-color-base-rgb: var(--ion-color-0b8494-rgb);
+	--ion-color-contrast: var(--ion-color-0b8494-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-0b8494-contrast-rgb);
+	--ion-color-shade: var(--ion-color-0b8494-shade);
+	--ion-color-tint: var(--ion-color-0b8494-tint);
+}
